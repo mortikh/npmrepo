@@ -1,3 +1,3 @@
 var names = ['Bogdan', 'Not Bogdan', 'Another one Bogdan'];
 
-console.log(names[1] + "could be only one.")
+console.log("My name is " + names[0] + " and this thing works")
